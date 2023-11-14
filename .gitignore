@@ -1,0 +1,6 @@
+client/
+*/__pycache__
+*/migrations
+.env
+/media
+backenv
